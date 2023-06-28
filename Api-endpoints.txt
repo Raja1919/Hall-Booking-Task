@@ -1,0 +1,21 @@
+# Hall-booking-task
+
+
+1.All-Room-Details:
+http://localhost:9000/All-Rooms
+
+2.Booking-Room
+http://localhost:9000/Booking-Room
+
+3.List all Rooms with Booked Data
+http://localhost:9000/booked-room-details
+
+4.List all Customers with Booked Data
+http://localhost:9000/All-Customers
+
+5.Count the number of times a customer has booked a room
+http://localhost:9000/Customer-Bookings-Count
+
+----------------------------------------------------------------------
+
+
